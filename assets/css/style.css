@@ -1,0 +1,19 @@
+.profile-pic{
+    width: 25%;
+  }
+  
+@media screen and (max-width: 768px){
+
+    .profile-pic{
+        width: 50%;
+    }
+
+}
+@media screen and (max-width: 576px){
+
+    .profile-pic{
+        width: 100%;
+    }
+
+}
+  
